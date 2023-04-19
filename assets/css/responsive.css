@@ -1,0 +1,57 @@
+@media screen  and (max-width:1400px){
+    .timer h2 {
+        font-size: 4.5rem;
+        margin-bottom: 20px;
+    }
+
+    .timer h3 {
+        font-size: 4rem;
+        margin-bottom: 25px;
+    }
+    .common__btn-style{
+        font-size: 3.5rem;
+        margin-left: 30px;
+    }
+}
+
+
+@media screen  and (max-width:969px) {
+    .timer h2 {
+        font-size: 3.8rem;
+        margin-bottom: 20px;
+    }
+
+    .timer h3 {
+        font-size: 3.3rem;
+        margin-bottom: 25px;
+    }
+    .common__btn-style{
+        font-size: 3rem;
+    }
+}
+
+@media screen  and (max-width:499px) {
+
+    .timer h2 {
+        font-size: 2.3rem;
+        margin-bottom: 20px;
+    }
+
+    .timer h3 {
+        font-size: 2rem;
+        margin-bottom: 15px;
+    }
+
+    .common__btn-style {
+        margin-top: 20px;
+        font-size: 2rem;
+        margin-left: 10px;
+    }
+
+}
+
+@media screen  and (max-width:369px) {
+    .common__btn-style{
+        font-size: 1.5rem;
+    }
+}
